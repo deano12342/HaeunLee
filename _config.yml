@@ -1,0 +1,8 @@
+# 사이트 제목
+title: HaeunLee's Blog
+
+# GitHub에서 지원하는 Jekyll 테마 지정 (예: minimal)
+theme: jekyll-theme-minimal
+
+# 프로젝트 사이트의 경로 지정 (매우 중요!)
+baseurl: "/HaeunLee"
