@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "AWS EC2와 FastAPI로 DB 자료 검색 슬랙봇 만들기 🤖"
 date: 2025-09-24 15:30:00 +0900
 ---
